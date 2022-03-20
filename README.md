@@ -10,5 +10,6 @@
 ## 2일차
 
 - server
-  - products get
-  - cart get, post, put, delete
+  - ~~products get~~
+  - ~~cart get, post, put, delete~~
+  - msw mock 데이터로 서버처럼 구현
